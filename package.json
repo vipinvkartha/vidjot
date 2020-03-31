@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vipinvkartha/vidjot/issues"
   },
-  "homepage": "https://github.com/vipinvkartha/vidjot#readme"
+  "homepage": "https://github.com/vipinvkartha/vidjot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
